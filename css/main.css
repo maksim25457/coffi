@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(0, 183, 196, 0.22);
+}
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 3em;
+    font-family: Silkscreen, Arial, sans-serif;
+}
+.hi_kris{
+    text-align: center;
+
+}
+.menu{
+    color: #cc29ca;
+    border-radius: 15px;
+    background-image: url(../image/menu.png);
+    width: 400px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-color: #cbffc1;
+    margin: 1px 1px  1px 300px;
+}
+#soder{
+    padding: 1px 3px  1px 1px; /*расстояние от текста до границы*/
+    margin: 10px 3px  1px 190px; /*расстояние от границы до внешних алиментов*/
+    font-style: italic; /*делает текст курсивом*/
+    line-height: 1.5em;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px 1px 1px 1px;
+    margin: 1px 1px  1px 50px;
+    font-weight: bold; /*задает толщину теста*/
+
+}
